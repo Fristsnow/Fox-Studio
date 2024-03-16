@@ -1,0 +1,27 @@
+{
+  "code": 200,
+  "message": "success",
+  "user": "/imgSrc/me.png",
+  "data": [
+    {
+      "id": 1,
+      "title": "全部",
+      "icon": "/imgSrc/title-1.png"
+    },
+    {
+      "id": 2,
+      "title": "#见鬼实录#",
+      "icon": "/imgSrc/title-2.png"
+    },
+    {
+      "id": 3,
+      "title": "#鬼话连篇#",
+      "icon": "/imgSrc/title-3.png"
+    },
+    {
+      "id": 4,
+      "title": "#捉鬼小队#",
+      "icon": "/imgSrc/title-4.png"
+    }
+  ]
+}
